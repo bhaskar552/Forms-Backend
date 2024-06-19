@@ -17,8 +17,8 @@ This is the backend server for the Slidely Form App. It is built with Express an
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/bhaskar552/Forms-Backend.git
+   cd Forms-Backend
    ```
 Install dependencies:
    ```bash
