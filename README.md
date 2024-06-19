@@ -1,8 +1,8 @@
-# Slidely Backend
+# Forms Backend
 
 ## Description
 
-This is the backend server for the Slidely Form App. It is built with Express and TypeScript, using a JSON file as a database.
+This is the backend server for the Forms App. It is built with Express and TypeScript, using a JSON file as a database.
 
 ## Endpoints
 
